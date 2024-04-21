@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Projetpcm" parent="android:Theme.Material.Light.NoActionBar" />
+    <string-array name="theme_array">
+        <item>Japonais</item>
+        <item>Français</item>
+        <item>Anglais</item>
+        <item>Maths</item>
+        <item>Dates</item>
+    </string-array>
+    <string-array name="jeudequestion_array">
+        <item>1</item>
+        <item>Hiragana</item>
+        <item>Japonais</item>
+        <item>2</item>
+        <item>Katakana</item>
+        <item>Japonais</item>
+        <item>3</item>
+        <item>Kanji</item>
+        <item>Japonais</item>
+    </string-array>
+</resources>
