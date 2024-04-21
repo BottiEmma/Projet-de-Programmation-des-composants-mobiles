@@ -1,6 +1,8 @@
-# README temporaire
+# README 
 
-### Dans build.gradle.kts(:App), j'ai du modifié dans android :  
+### ARCHIVE
+
+### Dans build.gradle.kts(:App) :  
   
 compileSdk = 33  
 
